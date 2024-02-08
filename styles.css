@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Montserrat Bold Italic";
-  src: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/fonts/Montserrat-BoldItalic.ttf") format("truetype");
+  src: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/fonts/Montserrat-BoldItalic.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat Regular";
-  src: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/fonts/Montserrat-Regular.ttf") format("truetype");
+  src: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/fonts/Montserrat-Regular.ttf") format("truetype");
   font-display: swap;
 }
 
@@ -137,11 +137,11 @@
 }
 
 #es-neo.es-neo .es-benefits {
-  background-image: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/red-bg.png");
+  background-image: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/img/red-bg.png");
   background-repeat: no-repeat;
   height: 2246px;
   background-position: top center;
-  margin-top: -13%;
+  margin-top: -20%;
   margin-bottom: 48px;
 }
 
@@ -169,10 +169,9 @@
   padding: 0;
   color: #fff;
   text-align: left;
-  margin-bottom: 64px;
+  margin-bottom: 48px;
   max-width: 250px;
   margin-left: 24px;
-  padding-top: 48px;
 }
 
 #es-neo.es-neo .es-benefits__subtitle {
@@ -184,17 +183,10 @@
   padding: 0;
   color: #fff;
   text-align: left;
-  margin-bottom: 64px;
+  margin-bottom: 48px;
   margin-left: 12px;
-  margin-top: -50px;
+  margin-top: -70px;
   max-width: 340px;
-}
-
-#es-neo.es-neo .es-benefits__subtitle--2 {
-  margin-bottom: 24px;
-  margin-top: 80px;
-  max-width: 230px;
-  margin-left: 24px;
 }
 
 #es-neo.es-neo .es-benefits__content {
@@ -222,6 +214,30 @@
   color: #fff;
   text-align: left;
   margin-left: 24px;
+  padding-bottom: 24px;
+}
+
+#es-neo.es-neo .es-benefits__txt--2 {
+  padding-bottom: 0;
+}
+
+#es-neo.es-neo .es-benefits__desc {
+  font-family: "Montserrat Bold Italic", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: inherit;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  text-align: left;
+  margin-left: 24px;
+}
+
+#es-neo.es-neo .es-benefits__wrapper {
+  padding-bottom: 32px;
+}
+
+#es-neo.es-neo .es-benefits__single {
   padding-bottom: 32px;
 }
 
@@ -238,7 +254,7 @@
 }
 
 #es-neo.es-neo .es-benefits__picture::after {
-  content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/arrow-5.png");
+  content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/img/arrow-5.png");
   position: absolute;
   bottom: 55%;
   right: 5%;
@@ -247,23 +263,10 @@
 #es-neo.es-neo .es-benefits__list {
   margin: 0;
   padding: 0;
-  list-style: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/thick.png") outside;
+  list-style: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/img/thick.png") outside;
   padding-left: 40px;
-  max-width: 315px;
-}
-
-#es-neo.es-neo .es-benefits__symbol {
-  width: 150px;
-  margin-inline-start: auto;
-  margin-inline-end: 10%;
-  position: relative;
-}
-
-#es-neo.es-neo .es-benefits__symbol::after {
-  content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/arrow-6.png");
-  position: absolute;
-  bottom: 25%;
-  left: -65%;
+  max-width: 280px;
+  margin-bottom: 48px;
 }
 
 #es-neo.es-neo .es-info__img {
@@ -311,7 +314,7 @@
 }
 
 #es-neo.es-neo .es-cross {
-  background-image: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/red-bg-mobile.png");
+  background-image: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/img/red-bg-mobile.png");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -329,6 +332,7 @@
   max-width: 290px;
   margin-left: 24px;
 }
+
 #es-neo.es-neo .es-cross__title--span {
   color: #c82322;
 }
@@ -449,7 +453,7 @@
   #es-neo.es-neo .es-kv__wrapper {
     position: absolute;
     top: 4%;
-    right: 4%;
+    right: 6%;
     width: unset;
   }
   #es-neo.es-neo .es-kv__label {
@@ -465,7 +469,7 @@
     margin-left: 48px;
   }
   #es-neo.es-neo .es-benefits__title::after {
-    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/arrow-1.png");
+    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/img/arrow-1.png");
     position: absolute;
     bottom: -33%;
     left: 38%;
@@ -488,7 +492,7 @@
     gap: 36px;
   }
   #es-neo.es-neo .es-benefits__picture::after {
-    content: url(https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/arrow-2.png);
+    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/img/arrow-2.png");
     position: absolute;
     bottom: 62%;
     right: 62%;
@@ -498,42 +502,40 @@
     margin-top: -360px;
     margin-left: -10px;
   }
+  #es-neo.es-neo .es-benefits__wrapper {
+    max-width: 540px;
+  }
+  #es-neo.es-neo .es-benefits__desc {
+    font-size: 30px;
+  }
+  #es-neo.es-neo .es-benefits__bottom {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: stretch;
+    align-content: center;
+  }
   #es-neo.es-neo .es-benefits__img--woman {
     margin-inline-start: 0;
   }
-#es-neo.es-neo .es-benefits__subtitle--1 {
+  #es-neo.es-neo .es-benefits__subtitle--1 {
     margin-top: -790px;
     max-width: unset;
-    margin-left: 47%;
+    margin-left: 48%;
     font-size: 34px;
-}
-  #es-neo.es-neo .es-benefits__list {
-    max-width: 410px;
-    margin-left: 64%;
   }
-  #es-neo.es-neo .es-benefits__symbol {
-    width: 214px;
-    margin-left: 24%;
+  #es-neo.es-neo .es-benefits__list {
+    max-width: 390px;
+    margin-left: 64%;
   }
   #es-neo.es-neo .es-benefits__name {
     font-size: 42px;
-    padding-top: 32px;
+    padding-top: 0;
     max-width: unset;
     margin-bottom: 48px;
     position: relative;
-    margin-left: 48px;
-  }
-  #es-neo.es-neo .es-benefits__symbol::after {
-    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/arrow-3.png");
-    bottom: 10%;
-  }
-  #es-neo.es-neo .es-benefits__subtitle--2 {
-    margin-top: -175px;
-    max-width: unset;
-    margin-left: 50%;
-  }
-  #es-neo.es-neo .es-benefits__txt--2 {
-    margin-left: 50%;
+    margin-left: 70px;
   }
   #es-neo.es-neo .es-info__title {
     font-size: 42px;
@@ -559,7 +561,7 @@
     position: relative;
   }
   #es-neo.es-neo .es-info__content::after {
-    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/arrow-4.png");
+    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/img/arrow-4.png");
     position: absolute;
     bottom: -30%;
     left: 55%;
@@ -585,19 +587,19 @@
     margin-top: 96px;
   }
   #es-neo.es-neo .es-cross__item--1::after {
-    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/arrow-7.png");
+    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/img/arrow-7.png");
     position: absolute;
     top: -125px;
     left: 165px;
   }
   #es-neo.es-neo .es-cross__item--2::after {
-    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/arrow-8.png");
+    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/img/arrow-8.png");
     position: absolute;
     top: -90px;
     left: -15px;
   }
   #es-neo.es-neo .es-cross__item--3::after {
-    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Neoangin-36/img/arrow-9.png");
+    content: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Benzydamine-Spray/img/arrow-9.png");
     position: absolute;
     top: -145px;
     left: -15px;
